@@ -1,5 +1,3 @@
-# IBMZdatathon-SAV214
-This repository contains my IBMZDatathon project 
 # 🌠 Meteorite Hunter — Predictive Analysis of Global Meteorite Landings  
 A machine learning and visualization project using NASA’s Meteorite Landings dataset.  
 Predicts meteorite types based on their mass, year, and coordinates, and visualizes their global distribution.
